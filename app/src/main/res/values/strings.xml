@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">登链钱包</string>
+    <string name="app_name">Just Wallet</string>
 
     <string name="exit_tips">再按一次退出程序</string>
 
@@ -33,7 +33,7 @@
     <string name="mine_system_setting">系统设置</string>
     <string name="mine_personal_center">个人中心</string>
     <string name="mine_help_center">技术交流与帮助</string>
-    <string name="mine_about_us">关于我们</string>
+    <string name="mine_about_us">关于作者</string>
 
     <string name="add_new_property_title">添加新资产</string>
     <string name="search_toolbar_cancel">取消</string>
@@ -311,11 +311,8 @@
     <string name="welcome_erc20_label_title">兼容 ERC20 </string>
     <string name="welcome_erc20_label_description">支持所有的ERC20 代币</string>
 
-    <string name="ask_help_desc_1">登链钱包是一款免费开源的功能全面的以太坊钱包，希望对你有帮助。 \n\n欢迎大家一起来交流技术QQ群：245251041， 个人微信：xlbxiong （下方是二维码）
-        \n\n如果你需要寻求进一步的帮助，我们提供的实惠的有偿技术服务，如：
-        \n1. 专业团队提供钱包定制开发；
-        \n2. 关注"登链学院"同名公众号全面学习区块链开发课程；
-        \n3. 解答问题，加入知识星球： 深入浅出区块链问答社区。 </string>
+    <string name="ask_help_desc_1">个人微信：stark-eth （下方是二维码）
+        \n\n如果你需要寻求进一步的帮助，我们提供的实惠的有偿技术服务 </string>
 
 
 </resources>
